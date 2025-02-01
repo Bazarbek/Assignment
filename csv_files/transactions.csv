@@ -1,0 +1,8 @@
+id,provider,accountid,companyid,amount,created,status,direction,paymenttype,correlationid,participantiban,timezoneoffset,bic,firsttransfer,mcc
+83cbccdd-c80d-2d5e-b18f-2d9ee1c916e8,Finom,97046bf5-5090-4691-99d9-fe589f765bbd,Company1,120,2024-04-30 11:55:00,Completed,Outgoing,Fee,ba048a7f-6389-4b78-9974-437aec7e2c7d,NL03FNOM1,120,FNOM22,FALSE,
+94f2dab5-283d-4ff9-b615-d2b9a32b7f54,Finom,97046bf5-5090-4691-99d9-fe589f765bbd,Company1,66000,2024-04-30 11:58:00,Completed,Outgoing,Payment,d4d43a0d-5699-40a6-947c-9fc230a1f324,DEIban1,120,FNOM22,FALSE,
+eccdf3ca-a2eb-451e-adf3-3cf3cb473e96,Finom,97046bf5-5090-4691-99d9-fe589f765bbd,Company1,66215,2024-04-30 11:55:00,Completed,Incoming,Payment,886d156f-8134-473f-80e5-1efc774c866e,BGIban1,120,FNOM22,FALSE,
+6c7e37d5-34dd-42ff-b9b5-cbb416b189d4,Finom,97046bf5-5090-4691-99d9-fe589f765bbd,Company1,11.8,2024-04-19 07:35:00,Completed,Incoming,Payment,803ac9c7-48c2-4266-9c46-9e2f68077fd3,LTIban1,120,FNOM22,TRUE,
+a2b87443-86ef-48ad-b584-8a6ae7406c54,Finom,cdfa2db2-fb8b-45a5-a8fb-e15883b9109b,Company2,1.4,2024-04-27 10:10:00,Reversed,Outgoing,CardPayment,c9180171-dea3-4da1-a91b-cb7161021349,,120,FNOM22,FALSE,7221
+63599867-4db1-4a72-9ae1-f1a9bfe420f9,Finom,cdfa2db2-fb8b-45a5-a8fb-e15883b9109b,Company2,23.35,2024-04-26 10:08:00,Declined,Outgoing,CardPayment,686e6f0a-1ccf-4d40-b612-91a3ac4dcfd4,,120,FNOM22,FALSE,4816
+a3423977-7961-4e17-83b0-d332ec7d6fd2,Finom,cdfa2db2-fb8b-45a5-a8fb-e15883b9109b,Company2,7,2024-04-23 12:08:00,Completed,Outgoing,CardPayment,fea17e54-0621-4367-aee2-d717af570391,,120,FNOM22,TRUE,4816
